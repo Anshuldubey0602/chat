@@ -138,3 +138,10 @@ CHANNEL_LAYERS = {
         },
     },
 }
+
+# #local
+# CHANNEL_LAYERS = {
+#     'default': {
+#         'BACKEND': 'channels.layers.InMemoryChannelLayer',
+#     },
+# }
